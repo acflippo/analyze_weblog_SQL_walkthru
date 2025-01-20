@@ -4,7 +4,7 @@ This is an example on how to solve an AI or data science interview question in S
 
 Video: https://youtu.be/Y_uZgPj-gjg
 
-Channel: https://www.youtube.com/@DataShep
+Channel: https://www.youtube.com/@datashep
 
 Website: [www.datashep.io](https://datashep.io)
 
